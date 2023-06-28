@@ -12,5 +12,5 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "deployment of db.json using cyclic"
 }
